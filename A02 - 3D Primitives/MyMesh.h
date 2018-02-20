@@ -1,5 +1,5 @@
 /*----------------------------------------------
-Programmer: Alberto Bobadilla (labigm@gmail.com)
+Programmer: Katie Roy (kmr8172@g.rit.edu)
 Date: 2017/05
 ----------------------------------------------*/
 #ifndef __MYMESH_H_
